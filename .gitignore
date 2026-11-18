@@ -1,0 +1,28 @@
+# Bộ nhớ đệm và file biên dịch Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Môi trường ảo Python
+.venv/
+venv/
+env/
+ENV/
+
+# Cấu hình trình soạn thảo và biến môi trường cục bộ
+.vscode/
+.idea/
+.env
+
+# File hệ thống tự sinh
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# File đồ thị xuất ra khi chạy thử chương trình
+do_thi_mon_hoc.png
+do_thi_mon_hoc.html
+lib/
